@@ -1021,6 +1021,8 @@ footer {
     cursor: pointer;
     font-weight: 500;
     transition: background-color 0.3s;
+    font-size: medium;
+    margin-top: 10px;
 }
 
 .submit-button:hover {
